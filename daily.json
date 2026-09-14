@@ -1,108 +1,105 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T14:46:00Z",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T16:03:00Z",
   "title": "今日卡市三大焦點",
   "headlines": [
+    {
+      "game": "pokemon",
+      "icon": "⚡",
+      "category": "new_set",
+      "title": "寶可夢30周年包明日發售",
+      "summary": "寶可夢卡牌30周年紀念擴充包「30th CELEBRATION」於9月16日日本世界同步發售，官方定價每盒7,200日圓。",
+      "key_figure": "¥7,200",
+      "source_url": "https://snkrdunk.com/articles/267868/"
+    },
     {
       "game": "onepiece",
       "icon": "⚓",
       "category": "high_value",
-      "title": "喬巴漫畫背景卡價¥24萬",
-      "summary": "航海王EB01喬巴漫畫背景SR-SP卡於日本PRICE BASE最新買取價達¥240,000。",
-      "key_figure": "¥240,000",
-      "source_url": "https://price-base.com/useful/"
-    },
-    {
-      "game": "pokemon",
-      "icon": "⚡",
-      "category": "price_move",
-      "title": "超級噴火龍Y暴升16萬",
-      "summary": "寶可夢《Mega噴火龍Yex》MUR近30日大幅急升¥167,000，最新市場售價高達¥781,000。",
-      "key_figure": "+¥167,000",
-      "source_url": "https://pokeka-atari.jp/"
+      "title": "海賊王路飛神卡收165萬",
+      "summary": "航海王OP-17「世界最強的戰士」蒙奇·D·路飛SEC-KSP海賊團超級平行卡，秋葉原門市買取價高達1,650,000日圓。",
+      "key_figure": "¥1,650,000",
+      "source_url": "https://snkrdunk.com/articles/264560/"
     },
     {
       "game": "market",
       "icon": "💴",
-      "category": "new_set",
-      "title": "30週年未來盒收¥10萬",
-      "summary": "寶可夢30th CELEBRATION FUTURISTIC BOX未開封盒最新收購相場達¥102,000。",
-      "key_figure": "¥102,000",
-      "source_url": "https://price-base.com/useful/"
+      "category": "price_move",
+      "title": "日本買寶可夢卡將推實名制",
+      "summary": "日本防範轉售黃牛與機器人搶購，規劃於2026年起導入個人番號卡身份驗證購買機制。",
+      "key_figure": "2026年規劃",
+      "source_url": "https://www.japantrips.co/news/starting-in-2026-purchasing-pokemon-cards-in-japan-is-planned-to-require-identity-verification"
     }
   ],
   "onepiece": {
     "product_news": [
       {
-        "title": "OP17世界最強戰士與EB05發表",
-        "detail": "官方發布BOOSTER PACK OP-17《世界最強戰士》（艾爾巴夫篇/新四皇）及EXTRA BOOSTER EB-05《ONE PIECE Heroines Edition vol.2》新彈資訊。",
-        "source_url": "https://onepiece-cardgame.com/"
+        "title": "OP-17「世界最強的戰士」發售",
+        "date": "2026-08-22",
+        "price": "¥5,760（每盒稅込）",
+        "details": "航海王卡牌第17彈主線擴充包「世界最強的戰士」於8月22日在日本發售，每包6張，每包定價240日圓。",
+        "source_url": "https://snkrdunk.com/articles/264560/"
       }
     ],
     "high_value": [
       {
-        "card_name": "トニートニー・チョッパー SR-SP (EB01-006 漫畫背景パラレル)",
-        "price": "¥240,000",
-        "note": "日本 PRICE BASE 2026年9月14日最新收購價",
-        "source_url": "https://price-base.com/useful/"
+        "card_name": "蒙奇·D·路飛 SEC-KSP (海賊團超級平行)",
+        "market_price": "¥2,000,000起",
+        "buyback_price": "¥1,650,000",
+        "set": "OP-17 世界最強的戰士",
+        "source_url": "https://snkrdunk.com/articles/264560/"
       },
       {
-        "card_name": "モンキー・D・ルフィ SP (ST31-004)",
-        "price": "¥60,000",
-        "note": "秋葉原 Otachu 2026年9月11日店頭單卡收購價",
-        "source_url": "https://price-base.com/useful/"
+        "card_name": "洛克斯·D·吉貝克 SEC-KSP (海賊團超級平行)",
+        "market_price": "¥800,000起",
+        "buyback_price": "¥700,000",
+        "set": "OP-17 世界最強的戰士",
+        "source_url": "https://snkrdunk.com/articles/264560/"
       }
     ],
     "movers": [
       {
-        "card_name": "シャンクス SP (OP13-028 新四皇パラレル)",
-        "price": "¥19,000 - ¥25,000",
-        "change": "秋葉原店舖維持高價收購行情",
-        "source_url": "https://price-base.com/useful/"
+        "card_name": "香克斯 SR-SP (新四皇特別卡)",
+        "price": "¥220,000起",
+        "change": "買取價¥200,000",
+        "note": "OP-17熱門高額特別卡之一 [1.4.2]。",
+        "source_url": "https://snkrdunk.com/articles/264560/"
       }
     ]
   },
   "pokemon": {
     "product_news": [
       {
-        "title": "30th CELEBRATION FUTURISTIC BOX 追加抽選",
-        "detail": "Pokemon Center Online 於9月11日至9月16日開放追加抽選預約，官方定價¥27,500。",
-        "source_url": "https://prtimes.jp/"
+        "title": "30周年擴充包「30th CELEBRATION」",
+        "date": "2026-09-16",
+        "price": "¥7,200（每盒稅込）",
+        "details": "寶可夢TCG 30周年紀念擴充包於9月16日世界同步發售，同日發售太陽伊布/月亮伊布プレミアム隊伍套裝（定價¥6,200）。",
+        "source_url": "https://snkrdunk.com/articles/267868/"
       }
     ],
     "high_value": [
       {
-        "card_name": "30th CELEBRATION FUTURISTIC BOX (未開封BOX)",
-        "price": "¥102,000",
-        "note": "PRICE BASE 2026年9月14日最新收購相場",
-        "source_url": "https://price-base.com/useful/"
-      },
-      {
-        "card_name": "メガリザードンYex MUR (スタートデッキ100バトルコレクション)",
-        "price": "¥781,000",
-        "note": "最新市場售價約¥781,000，買取價達¥423,300",
-        "source_url": "https://pokeka-atari.jp/"
+        "card_name": "超級烈空坐ex (Mega Rayquaza ex)",
+        "market_price": "熱門發售卡款",
+        "buyback_price": "依門市現報為準",
+        "set": "MEGA擴充包「ストームエメラルダ」",
+        "source_url": "https://www.pokemon-card.com/ex/m6/"
       }
     ],
     "movers": [
       {
-        "card_name": "メガリザードンYex MUR",
-        "price": "¥781,000",
-        "change": "+¥167,000 (過去30日升幅)",
-        "source_url": "https://pokeka-atari.jp/"
-      },
-      {
-        "card_name": "バシャーモVMAX SA (雙璧のファイター)",
-        "price": "¥114,000",
-        "change": "+¥14,000 (過去30日升幅)",
-        "source_url": "https://pokeka-atari.jp/"
+        "card_name": "30th CELEBRATION 盒裝",
+        "price": "¥7,200",
+        "change": "明日開售溢價預期高",
+        "note": "日本寶可夢中心官方抽選熱度極高 [1.3.4]。",
+        "source_url": "https://www.pokemon-card.com/"
       }
     ]
   },
   "sources": [
-    "https://price-base.com/useful/",
-    "https://pokeka-atari.jp/",
-    "https://prtimes.jp/",
-    "https://onepiece-cardgame.com/"
+    "https://snkrdunk.com/articles/267868/",
+    "https://snkrdunk.com/articles/264560/",
+    "https://www.japantrips.co/news/starting-in-2026-purchasing-pokemon-cards-in-japan-is-planned-to-require-identity-verification",
+    "https://www.pokemon-card.com/ex/m6/"
   ]
 }

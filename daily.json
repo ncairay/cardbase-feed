@@ -1,1 +1,108 @@
-{"version":1,"date":"2026-09-14","generated_at":"2026-09-14T07:30:52.002Z","highlights":[{"icon":"pokemon","title":"官方釋出兩大重要網址","body":"日版寶可夢卡牌釋出 2 個重要官方網址，包括官方卡牌網站以及株式會社企業資訊頁面。","highlight_value":"2個官方網址"},{"icon":"pokemon","title":"Players Club 玩家平台","body":"官方確認「プレイヤーズクラブ」為玩家專屬 1 大核心平台，提供活動登記與官方資訊。","highlight_value":"1大玩家平台"},{"icon":"pokemon","title":"新手入門專頁更新","body":"官方設立 1 個「はじめよう！ポケモンカード」新手專區，為剛起步嘅玩家提供最齊全嘅入門指南。","highlight_value":"1個新手專區"}],"sections":[{"game":"寶可夢卡牌 (Pokémon TCG)","items":[{"category":"新品情報","body":"根據日版官方最新公開網頁資料，官方網站（pokemon-card.com）已整合多個核心板塊。當中包括專為卡牌玩家而設嘅「プレイヤーズクラブ」（Players Club）平台，以及針對新手教學嘅「はじめよう！ポケモンカード」專頁。此外，株式會社 Pokémon 嘅企業官方頁面（pokemon.co.jp/corporate）亦同時並列，為收藏家與玩家提供最準確嘅官方網絡渠道資訊。"}]}],"market_note":"官方渠道連結與玩家平台持續維持運作。","disclaimer":"資訊僅供參考,並非投資建議。"}
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:46:00Z",
+  "title": "今日卡市三大焦點",
+  "headlines": [
+    {
+      "game": "onepiece",
+      "icon": "⚓",
+      "category": "high_value",
+      "title": "喬巴漫畫背景卡價¥24萬",
+      "summary": "航海王EB01喬巴漫畫背景SR-SP卡於日本PRICE BASE最新買取價達¥240,000。",
+      "key_figure": "¥240,000",
+      "source_url": "https://price-base.com/useful/"
+    },
+    {
+      "game": "pokemon",
+      "icon": "⚡",
+      "category": "price_move",
+      "title": "超級噴火龍Y暴升16萬",
+      "summary": "寶可夢《Mega噴火龍Yex》MUR近30日大幅急升¥167,000，最新市場售價高達¥781,000。",
+      "key_figure": "+¥167,000",
+      "source_url": "https://pokeka-atari.jp/"
+    },
+    {
+      "game": "market",
+      "icon": "💴",
+      "category": "new_set",
+      "title": "30週年未來盒收¥10萬",
+      "summary": "寶可夢30th CELEBRATION FUTURISTIC BOX未開封盒最新收購相場達¥102,000。",
+      "key_figure": "¥102,000",
+      "source_url": "https://price-base.com/useful/"
+    }
+  ],
+  "onepiece": {
+    "product_news": [
+      {
+        "title": "OP17世界最強戰士與EB05發表",
+        "detail": "官方發布BOOSTER PACK OP-17《世界最強戰士》（艾爾巴夫篇/新四皇）及EXTRA BOOSTER EB-05《ONE PIECE Heroines Edition vol.2》新彈資訊。",
+        "source_url": "https://onepiece-cardgame.com/"
+      }
+    ],
+    "high_value": [
+      {
+        "card_name": "トニートニー・チョッパー SR-SP (EB01-006 漫畫背景パラレル)",
+        "price": "¥240,000",
+        "note": "日本 PRICE BASE 2026年9月14日最新收購價",
+        "source_url": "https://price-base.com/useful/"
+      },
+      {
+        "card_name": "モンキー・D・ルフィ SP (ST31-004)",
+        "price": "¥60,000",
+        "note": "秋葉原 Otachu 2026年9月11日店頭單卡收購價",
+        "source_url": "https://price-base.com/useful/"
+      }
+    ],
+    "movers": [
+      {
+        "card_name": "シャンクス SP (OP13-028 新四皇パラレル)",
+        "price": "¥19,000 - ¥25,000",
+        "change": "秋葉原店舖維持高價收購行情",
+        "source_url": "https://price-base.com/useful/"
+      }
+    ]
+  },
+  "pokemon": {
+    "product_news": [
+      {
+        "title": "30th CELEBRATION FUTURISTIC BOX 追加抽選",
+        "detail": "Pokemon Center Online 於9月11日至9月16日開放追加抽選預約，官方定價¥27,500。",
+        "source_url": "https://prtimes.jp/"
+      }
+    ],
+    "high_value": [
+      {
+        "card_name": "30th CELEBRATION FUTURISTIC BOX (未開封BOX)",
+        "price": "¥102,000",
+        "note": "PRICE BASE 2026年9月14日最新收購相場",
+        "source_url": "https://price-base.com/useful/"
+      },
+      {
+        "card_name": "メガリザードンYex MUR (スタートデッキ100バトルコレクション)",
+        "price": "¥781,000",
+        "note": "最新市場售價約¥781,000，買取價達¥423,300",
+        "source_url": "https://pokeka-atari.jp/"
+      }
+    ],
+    "movers": [
+      {
+        "card_name": "メガリザードンYex MUR",
+        "price": "¥781,000",
+        "change": "+¥167,000 (過去30日升幅)",
+        "source_url": "https://pokeka-atari.jp/"
+      },
+      {
+        "card_name": "バシャーモVMAX SA (雙璧のファイター)",
+        "price": "¥114,000",
+        "change": "+¥14,000 (過去30日升幅)",
+        "source_url": "https://pokeka-atari.jp/"
+      }
+    ]
+  },
+  "sources": [
+    "https://price-base.com/useful/",
+    "https://pokeka-atari.jp/",
+    "https://prtimes.jp/",
+    "https://onepiece-cardgame.com/"
+  ]
+}

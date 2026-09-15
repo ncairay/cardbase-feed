@@ -1,105 +1,110 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T16:03:00Z",
+  "generated_at": "2026-09-15T04:00:00Z",
   "title": "今日卡市三大焦點",
   "headlines": [
     {
       "game": "pokemon",
       "icon": "⚡",
-      "category": "new_set",
-      "title": "寶可夢30周年包明日發售",
-      "summary": "寶可夢卡牌30周年紀念擴充包「30th CELEBRATION」於9月16日日本世界同步發售，官方定價每盒7,200日圓。",
-      "key_figure": "¥7,200",
-      "source_url": "https://snkrdunk.com/articles/267868/"
+      "category": "price_move",
+      "title": "寶可夢高額卡均價衝高",
+      "summary": "アルテマ數據顯示，9月15日寶可夢高額卡Top500平均買取價攀升至¥774,540。",
+      "key_figure": "¥774,540",
+      "source_url": "https://altema.jp/pokemoncard/sobatuisou"
     },
     {
       "game": "onepiece",
       "icon": "⚓",
       "category": "high_value",
-      "title": "海賊王路飛神卡收165萬",
-      "summary": "航海王OP-17「世界最強的戰士」蒙奇·D·路飛SEC-KSP海賊團超級平行卡，秋葉原門市買取價高達1,650,000日圓。",
-      "key_figure": "¥1,650,000",
-      "source_url": "https://snkrdunk.com/articles/264560/"
+      "title": "航海王赤犬獎勵卡高價",
+      "summary": "Card Rush 9月15日榜單顯示，CS2023限定《赤犬》未開封版買取價達¥5,000,000。",
+      "key_figure": "¥5,000,000",
+      "source_url": "https://www.cardrush-op.jp/"
     },
     {
       "game": "market",
       "icon": "💴",
-      "category": "price_move",
-      "title": "日本買寶可夢卡將推實名制",
-      "summary": "日本防範轉售黃牛與機器人搶購，規劃於2026年起導入個人番號卡身份驗證購買機制。",
-      "key_figure": "2026年規劃",
-      "source_url": "https://www.japantrips.co/news/starting-in-2026-purchasing-pokemon-cards-in-japan-is-planned-to-require-identity-verification"
+      "category": "new_set",
+      "title": "30週年禮盒明日發售",
+      "summary": "寶可夢30週年FUTURISTIC BOX明日發售，市場調查預測買取價落在¥30,000至¥60,000。",
+      "key_figure": "¥30,000-¥60,000",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000003.000148712.html"
     }
   ],
   "onepiece": {
     "product_news": [
       {
-        "title": "OP-17「世界最強的戰士」發售",
-        "date": "2026-08-22",
-        "price": "¥5,760（每盒稅込）",
-        "details": "航海王卡牌第17彈主線擴充包「世界最強的戰士」於8月22日在日本發售，每包6張，每包定價240日圓。",
-        "source_url": "https://snkrdunk.com/articles/264560/"
+        "title": "OP17《世界最強の戰士》再販抽籤登記",
+        "detail": "9月15日多家日本卡店（如Tokyo Otaku Mode）針對8月22日發售之OP17《世界最強の戰士》（定價¥5,760/BOX）進行補貨抽籤登記。",
+        "source_url": "https://otakumode.com/"
       }
     ],
     "high_value": [
       {
-        "card_name": "蒙奇·D·路飛 SEC-KSP (海賊團超級平行)",
-        "market_price": "¥2,000,000起",
-        "buyback_price": "¥1,650,000",
-        "set": "OP-17 世界最強的戰士",
-        "source_url": "https://snkrdunk.com/articles/264560/"
+        "name": "サカズキ (OP02-099 SR) CS2023限定未開封",
+        "key_figure": "¥5,000,000",
+        "detail": "Card Rush 9月15日最新買取榜單，CS2023大會優勝限定《赤犬》未開封版買取價保持在¥5,000,000高位。",
+        "source_url": "https://www.cardrush-op.jp/"
       },
       {
-        "card_name": "洛克斯·D·吉貝克 SEC-KSP (海賊團超級平行)",
-        "market_price": "¥800,000起",
-        "buyback_price": "¥700,000",
-        "set": "OP-17 世界最強的戰士",
-        "source_url": "https://snkrdunk.com/articles/264560/"
+        "name": "モンキー・D・ルフィ (ST01-001 L) 帶編號版",
+        "key_figure": "¥5,000,000",
+        "detail": "Card Rush 9月15日榜單顯示，初代帶編號路飛Leader卡未開封/限定品買取價達¥5,000,000。",
+        "source_url": "https://www.cardrush-op.jp/"
       }
     ],
     "movers": [
       {
-        "card_name": "香克斯 SR-SP (新四皇特別卡)",
-        "price": "¥220,000起",
-        "change": "買取價¥200,000",
-        "note": "OP-17熱門高額特別卡之一 [1.4.2]。",
-        "source_url": "https://snkrdunk.com/articles/264560/"
+        "name": "シャンクス (OP13-028 SR) 新四皇SP",
+        "key_figure": "¥19,000",
+        "detail": "Toreca Ace 最新買取價顯示為¥19,000，於新四皇特別平行卡中維持高水準。",
+        "source_url": "https://kaitori.trecaace.com/"
+      },
+      {
+        "name": "マーシャル・D・ティーチ (ST27-005 SR) 新四皇SP",
+        "key_figure": "¥16,000",
+        "detail": "Toreca Ace 買取價為¥16,000，黑鬍子新四皇SP版成交熱度穩定。",
+        "source_url": "https://kaitori.trecaace.com/"
       }
     ]
   },
   "pokemon": {
     "product_news": [
       {
-        "title": "30周年擴充包「30th CELEBRATION」",
-        "date": "2026-09-16",
-        "price": "¥7,200（每盒稅込）",
-        "details": "寶可夢TCG 30周年紀念擴充包於9月16日世界同步發售，同日發售太陽伊布/月亮伊布プレミアム隊伍套裝（定價¥6,200）。",
-        "source_url": "https://snkrdunk.com/articles/267868/"
+        "title": "30週年「30th CELEBRATION」明日9月16日正式發售",
+        "detail": "寶可夢TCG 30週年紀念擴充包與「FUTURISTIC BOX」（定價¥27,500）於9月16日公開發售，收錄全新FUR（Futuristic Rare）等級卡牌。",
+        "source_url": "https://www.pokemon-card.com/"
       }
     ],
     "high_value": [
       {
-        "card_name": "超級烈空坐ex (Mega Rayquaza ex)",
-        "market_price": "熱門發售卡款",
-        "buyback_price": "依門市現報為準",
-        "set": "MEGA擴充包「ストームエメラルダ」",
-        "source_url": "https://www.pokemon-card.com/ex/m6/"
+        "name": "メガリザードンXex (MUR 116/080)",
+        "key_figure": "¥100,000",
+        "detail": "Toreca Ace 最新買取價達¥100,000，為Mega系列高額卡代表之一。",
+        "source_url": "https://kaitori.trecaace.com/"
+      },
+      {
+        "name": "メガレックウザex (MUR 113/076)",
+        "key_figure": "¥65,000",
+        "detail": "Toreca Ace 最新買取價為¥65,000，超級烈空坐MUR維持熱度。",
+        "source_url": "https://kaitori.trecaace.com/"
       }
     ],
     "movers": [
       {
-        "card_name": "30th CELEBRATION 盒裝",
-        "price": "¥7,200",
-        "change": "明日開售溢價預期高",
-        "note": "日本寶可夢中心官方抽選熱度極高 [1.3.4]。",
-        "source_url": "https://www.pokemon-card.com/"
+        "name": "ポケカ Top 500 平均買取相場",
+        "key_figure": "¥774,540",
+        "detail": "9月15日アルテマ「ポケカチ」數據，Top 500高額卡平均買取價達¥774,540，較9月1日之¥657,150顯著提升。",
+        "source_url": "https://altema.jp/pokemoncard/sobatuisou"
       }
     ]
   },
   "sources": [
-    "https://snkrdunk.com/articles/267868/",
-    "https://snkrdunk.com/articles/264560/",
-    "https://www.japantrips.co/news/starting-in-2026-purchasing-pokemon-cards-in-japan-is-planned-to-require-identity-verification",
-    "https://www.pokemon-card.com/ex/m6/"
+    "https://altema.jp/pokemoncard/sobatuisou",
+    "https://www.cardrush-op.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000148712.html",
+    "https://kaitori.trecaace.com/",
+    "https://otakumode.com/",
+    "https://www.pokemon-card.com/"
   ]
 }

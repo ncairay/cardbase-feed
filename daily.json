@@ -1,110 +1,54 @@
 {
+  "version": 1,
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T04:00:00Z",
-  "title": "今日卡市三大焦點",
-  "headlines": [
+  "generated_at": "2026-09-15T05:36:00Z",
+  "highlights": [
     {
-      "game": "pokemon",
-      "icon": "⚡",
-      "category": "price_move",
-      "title": "寶可夢高額卡均價衝高",
-      "summary": "アルテマ數據顯示，9月15日寶可夢高額卡Top500平均買取價攀升至¥774,540。",
-      "key_figure": "¥774,540",
-      "source_url": "https://altema.jp/pokemoncard/sobatuisou"
+      "icon": "onepiece",
+      "title": "航海王CS紀念卡頂點",
+      "body": "薩卡斯基CS2023限定卡在日本卡店最新收購價高達5,000,000日圓。",
+      "highlight_value": "¥5,000,000"
     },
     {
-      "game": "onepiece",
-      "icon": "⚓",
-      "category": "high_value",
-      "title": "航海王赤犬獎勵卡高價",
-      "summary": "Card Rush 9月15日榜單顯示，CS2023限定《赤犬》未開封版買取價達¥5,000,000。",
-      "key_figure": "¥5,000,000",
-      "source_url": "https://www.cardrush-op.jp/"
+      "icon": "pokemon",
+      "title": "寶可夢30週年禮盒高騰",
+      "body": "FUTURISTIC BOX於9月16日發售，二手市場成交價已達103,300日圓。",
+      "highlight_value": "¥103,300"
     },
     {
-      "game": "market",
-      "icon": "💴",
-      "category": "new_set",
-      "title": "30週年禮盒明日發售",
-      "summary": "寶可夢30週年FUTURISTIC BOX明日發售，市場調查預測買取價落在¥30,000至¥60,000。",
-      "key_figure": "¥30,000-¥60,000",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000003.000148712.html"
+      "icon": "market",
+      "title": "寶可夢舊卡天價收購",
+      "body": "Card Rush針對未拆封月亮伊布☆開出12,000,000日圓收購天價。",
+      "highlight_value": "¥12,000,000"
     }
   ],
-  "onepiece": {
-    "product_news": [
-      {
-        "title": "OP17《世界最強の戰士》再販抽籤登記",
-        "detail": "9月15日多家日本卡店（如Tokyo Otaku Mode）針對8月22日發售之OP17《世界最強の戰士》（定價¥5,760/BOX）進行補貨抽籤登記。",
-        "source_url": "https://otakumode.com/"
-      }
-    ],
-    "high_value": [
-      {
-        "name": "サカズキ (OP02-099 SR) CS2023限定未開封",
-        "key_figure": "¥5,000,000",
-        "detail": "Card Rush 9月15日最新買取榜單，CS2023大會優勝限定《赤犬》未開封版買取價保持在¥5,000,000高位。",
-        "source_url": "https://www.cardrush-op.jp/"
-      },
-      {
-        "name": "モンキー・D・ルフィ (ST01-001 L) 帶編號版",
-        "key_figure": "¥5,000,000",
-        "detail": "Card Rush 9月15日榜單顯示，初代帶編號路飛Leader卡未開封/限定品買取價達¥5,000,000。",
-        "source_url": "https://www.cardrush-op.jp/"
-      }
-    ],
-    "movers": [
-      {
-        "name": "シャンクス (OP13-028 SR) 新四皇SP",
-        "key_figure": "¥19,000",
-        "detail": "Toreca Ace 最新買取價顯示為¥19,000，於新四皇特別平行卡中維持高水準。",
-        "source_url": "https://kaitori.trecaace.com/"
-      },
-      {
-        "name": "マーシャル・D・ティーチ (ST27-005 SR) 新四皇SP",
-        "key_figure": "¥16,000",
-        "detail": "Toreca Ace 買取價為¥16,000，黑鬍子新四皇SP版成交熱度穩定。",
-        "source_url": "https://kaitori.trecaace.com/"
-      }
-    ]
-  },
-  "pokemon": {
-    "product_news": [
-      {
-        "title": "30週年「30th CELEBRATION」明日9月16日正式發售",
-        "detail": "寶可夢TCG 30週年紀念擴充包與「FUTURISTIC BOX」（定價¥27,500）於9月16日公開發售，收錄全新FUR（Futuristic Rare）等級卡牌。",
-        "source_url": "https://www.pokemon-card.com/"
-      }
-    ],
-    "high_value": [
-      {
-        "name": "メガリザードンXex (MUR 116/080)",
-        "key_figure": "¥100,000",
-        "detail": "Toreca Ace 最新買取價達¥100,000，為Mega系列高額卡代表之一。",
-        "source_url": "https://kaitori.trecaace.com/"
-      },
-      {
-        "name": "メガレックウザex (MUR 113/076)",
-        "key_figure": "¥65,000",
-        "detail": "Toreca Ace 最新買取價為¥65,000，超級烈空坐MUR維持熱度。",
-        "source_url": "https://kaitori.trecaace.com/"
-      }
-    ],
-    "movers": [
-      {
-        "name": "ポケカ Top 500 平均買取相場",
-        "key_figure": "¥774,540",
-        "detail": "9月15日アルテマ「ポケカチ」數據，Top 500高額卡平均買取價達¥774,540，較9月1日之¥657,150顯著提升。",
-        "source_url": "https://altema.jp/pokemoncard/sobatuisou"
-      }
-    ]
-  },
-  "sources": [
-    "https://altema.jp/pokemoncard/sobatuisou",
-    "https://www.cardrush-op.jp/",
-    "https://prtimes.jp/main/html/rd/p/000000003.000148712.html",
-    "https://kaitori.trecaace.com/",
-    "https://otakumode.com/",
-    "https://www.pokemon-card.com/"
-  ]
+  "sections": [
+    {
+      "game": "onepiece",
+      "items": [
+        {
+          "category": "新彈",
+          "body": "第17彈「世界最強之戰士」於8月22日發售，第18彈「神之支配」預計於11月推出。"
+        },
+        {
+          "category": "高額",
+          "body": "OP13香克斯新四皇SP平行卡最新收購價錄得19,000日圓。"
+        }
+      ]
+    },
+    {
+      "game": "pokemon",
+      "items": [
+        {
+          "category": "新彈",
+          "body": "30週年紀念擴充包「30th CELEBRATION」於9月16日全球發售，定價每包360日圓。"
+        },
+        {
+          "category": "高額",
+          "body": "超級噴火龍X ex(MUR 116/080)於卡牌店最新收購價達100,000日圓。"
+        }
+      ]
+    }
+  ],
+  "disclaimer": "只列數字同事實，非投資建議。"
 }

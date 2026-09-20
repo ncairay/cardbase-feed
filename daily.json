@@ -4,39 +4,51 @@
   "highlights": [
     {
       "icon": "pokemon",
-      "title": "莉莉艾買取衝660萬",
-      "body": "截至9月20日，莉莉艾 PROMO（#397/SM-P）主要店舖買取價達 ¥6,500,000，續居寶可夢卡買取榜首。",
-      "highlight_value": "¥6,500,000"
+      "title": "30週年彈登頂",
+      "body": "截至2026年9月20日，寶可夢卡牌30週年擴充包BOX未開封買取價錄得17,000日圓。",
+      "highlight_value": "¥17,000"
     },
     {
       "icon": "onepiece",
-      "title": "路飛SP買取近194萬",
-      "body": "截至9月20日，路飛 SP（受け継がれる意志）推定買取價約 ¥1,935,000，穩守航海王卡買取榜第一。",
-      "highlight_value": "¥1,935,000"
+      "title": "魯夫超級パラレル",
+      "body": "截至2026年9月18日，航海王卡牌モンキー・D・ルフィ（海賊団スーパーパラレル）買取價高達1,300,000日圓。",
+      "highlight_value": "¥1,300,000"
     },
     {
       "icon": "market",
-      "title": "寶可夢30週年升溫",
-      "body": "MEGA擴充包「30th CELEBRATION」9月16日開賣後，Red Mew（RGB）9月19日買取價已見 ¥500,000。",
-      "highlight_value": "¥500,000"
+      "title": "30週年Deck高企",
+      "body": "截至2026年9月20日，寶可夢30週年プレミアムデッキセット錄得15,500日圓的強勢買取價。",
+      "highlight_value": "¥15,500"
     }
   ],
   "sections": [
     {
       "game": "onepiece",
       "items": [
-        { "category": "新彈", "body": "「ONE PIECE DAY'26」紀念的Premium Card Collection（路飛＋DON!!兩張）9月17日12:00開放預約，含稅 ¥990，預定2027年2月出貨。" },
-        { "category": "高額", "body": "9月20日買取榜：路飛SP（受け継がれる意志）推定 ¥1,935,000、路飛SP（世界最強の戦士）推定 ¥1,485,000。" }
+        {
+          "category": "高額",
+          "body": "截至2026年9月17日，航海王卡牌ST31-004モンキー・D・ルフィ的SP版買取價達到45,000日圓。"
+        },
+        {
+          "category": "買取",
+          "body": "截至2026年9月17日，航海王卡牌OP13-028シャンクス的SP版買取價維持在20,000日圓。"
+        }
       ]
     },
     {
       "game": "pokemon",
       "items": [
-        { "category": "新彈", "body": "MEGA擴充包「30th CELEBRATION」9月16日發售，含稅 ¥360，每包6張全閃卡，收錄FUR版Mew ex與Mewtwo ex。" },
-        { "category": "高額", "body": "9月20日主要店舖買取：莉莉艾PROMO(#397/SM-P) ¥6,500,000、皮卡丘PROMO(#279/XY-P) ¥3,500,000。" }
+        {
+          "category": "新彈",
+          "body": "截至2026年9月20日，寶可夢卡牌30th CELEBRATION FUTURISTIC BOX未開封買取價高見42,000日圓。"
+        },
+        {
+          "category": "買取",
+          "body": "截至2026年9月20日，寶可夢卡牌30th CELEBRATION的N卡買取價錄得7,980日圓。"
+        }
       ]
     }
   ],
-  "market_note": "日版市場今日焦點在寶可夢30週年：「30th CELEBRATION」9月16日開賣，Red Mew(RGB)9月19日買取見 ¥500,000；航海王方面老牌路飛SP買取續企穩 ¥190萬以上。",
+  "market_note": "截至2026年9月20日，日本卡牌市場受30週年新彈熱潮帶動，寶可夢高配商品維持熾熱高價，而航海王頂級稀有卡繼續企穩高位。",
   "disclaimer": "資訊僅供參考，並非投資建議。"
 }

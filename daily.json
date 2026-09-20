@@ -1,69 +1,42 @@
 {
   "version": 1,
-  "date": "2026-09-18",
+  "date": "2026-09-20",
   "highlights": [
     {
       "icon": "pokemon",
-      "title": "30週年頭獎夢幻66萬",
-      "body": "9月16日發售嘅MEGA「30th CELEBRATION」，頭獎《ミュウ(赤)RGB》買取價已達¥661,000，青色¥473,000、綠色¥450,000。",
-      "highlight_value": "¥661,000"
+      "title": "莉莉艾買取衝660萬",
+      "body": "截至9月20日，莉莉艾 PROMO（#397/SM-P）主要店舖買取價達 ¥6,500,000，續居寶可夢卡買取榜首。",
+      "highlight_value": "¥6,500,000"
     },
     {
       "icon": "onepiece",
-      "title": "烏塔SP一個月升2.4萬",
-      "body": "《ウタ》SP（新時代の主役）買取價升至¥38,700，30日內急升¥23,900，係9月航海王卡高騰榜第1位。",
-      "highlight_value": "¥38,700"
+      "title": "路飛SP買取近194萬",
+      "body": "截至9月20日，路飛 SP（受け継がれる意志）推定買取價約 ¥1,935,000，穩守航海王卡買取榜第一。",
+      "highlight_value": "¥1,935,000"
     },
     {
       "icon": "market",
-      "title": "30週年BOX買取2.4倍",
-      "body": "9月17日27間店集計，30th CELEBRATION未開封BOX（連膠）平均買取¥17,358，定價¥7,200，即約2.4倍。",
-      "highlight_value": "¥17,358"
+      "title": "寶可夢30週年升溫",
+      "body": "MEGA擴充包「30th CELEBRATION」9月16日開賣後，Red Mew（RGB）9月19日買取價已見 ¥500,000。",
+      "highlight_value": "¥500,000"
     }
   ],
   "sections": [
     {
       "game": "onepiece",
       "items": [
-        {
-          "category": "買取",
-          "body": "《ウタ》SP買取¥38,700（30日+¥23,900）、《シャンクス》SRパラレル¥21,800（月內低位¥880）、《ロー》SP¥34,800（+¥10,000）。"
-        },
-        {
-          "category": "高額",
-          "body": "日版高額榜首《モンキー・D・ルフィ》SP買取價約¥1,935,000，第2位同名SP約¥1,485,000。"
-        },
-        {
-          "category": "新彈",
-          "body": "4th Anniversary Set定價¥18,700，Premium Bandai抽選（8月3日至9月2日應募），收錄9張特別promo，2027年2月出貨。"
-        },
-        {
-          "category": "買取",
-          "body": "4th Anniversary Set未開封調查價約¥150,000（PRICE BASE調查數字，屬預測相場，非實際買取價）。"
-        }
+        { "category": "新彈", "body": "「ONE PIECE DAY'26」紀念的Premium Card Collection（路飛＋DON!!兩張）9月17日12:00開放預約，含稅 ¥990，預定2027年2月出貨。" },
+        { "category": "高額", "body": "9月20日買取榜：路飛SP（受け継がれる意志）推定 ¥1,935,000、路飛SP（世界最強の戦士）推定 ¥1,485,000。" }
       ]
     },
     {
       "game": "pokemon",
       "items": [
-        {
-          "category": "新彈",
-          "body": "MEGA「30th CELEBRATION」9月16日發售，每包¥360（6張全閃），新稀有度FUR首登場，收錄ミュウeX同ミュウツーex。"
-        },
-        {
-          "category": "高額",
-          "body": "頭獎《ミュウ(赤)RGB》買取¥661,000，RGB三色集齊約¥1,584,000。"
-        },
-        {
-          "category": "買取",
-          "body": "9月17日27社集計，30th BOX連膠買取平均¥17,358（最高¥21,000、最低¥14,000），冇膠平均¥13,327。"
-        },
-        {
-          "category": "暴跌",
-          "body": "上一彈「ストームエメラルダ」BOX由事前買取¥31,000跌至¥8,700，49日內下跌71.9%，提醒新彈追高風險。"
-        }
+        { "category": "新彈", "body": "MEGA擴充包「30th CELEBRATION」9月16日發售，含稅 ¥360，每包6張全閃卡，收錄FUR版Mew ex與Mewtwo ex。" },
+        { "category": "高額", "body": "9月20日主要店舖買取：莉莉艾PROMO(#397/SM-P) ¥6,500,000、皮卡丘PROMO(#279/XY-P) ¥3,500,000。" }
       ]
     }
   ],
+  "market_note": "日版市場今日焦點在寶可夢30週年：「30th CELEBRATION」9月16日開賣，Red Mew(RGB)9月19日買取見 ¥500,000；航海王方面老牌路飛SP買取續企穩 ¥190萬以上。",
   "disclaimer": "資訊僅供參考，並非投資建議。"
 }

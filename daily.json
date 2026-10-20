@@ -1,24 +1,18 @@
 {
   "version": 1,
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "highlights": [
     {
       "icon": "onepiece",
-      "title": "路飛超級平行單卡",
-      "body": "截至2026年10月19日，Card Rush對《蒙奇·D·路飛》海賊團超級平行單卡最新買取價為¥900,000。",
-      "highlight_value": "¥900,000"
+      "title": "第一彈香克斯漫畫版買取",
+      "body": "截至2026年10月20日，Card Rush 針對《ROMANCE DAWN》漫畫異畫香克斯單卡最新買取價為130,000日圓。",
+      "highlight_value": "¥130,000"
     },
     {
       "icon": "pokemon",
-      "title": "Mega烈空座ex",
-      "body": "截至2026年10月19日，PRICE BASE收購榜顯示《MEGA烈空座ex》MUR單卡買取價達¥50,000。",
-      "highlight_value": "¥50,000"
-    },
-    {
-      "icon": "pokemon",
-      "title": "30週年皮卡丘PROMO",
-      "body": "截至2026年10月19日，Fullcomp本厚木店對《皮卡丘》(131/M-P)未拆封PROMO單卡買取價為¥24,000。",
-      "highlight_value": "¥24,000"
+      "title": "30週年皮卡丘SAR相場",
+      "body": "截至2026年10月20日，SNKRDUNK 平台上「30th CELEBRATION」皮卡丘ex SAR 單卡當日平均成交價為6,322日圓。",
+      "highlight_value": "¥6,322"
     }
   ],
   "sections": [
@@ -26,12 +20,16 @@
       "game": "onepiece",
       "items": [
         {
-          "category": "高額",
-          "body": "截至2026年10月18日，Card Rush對《頂上決戰》艾斯漫畫平行單卡買取價維持在¥110,000。"
+          "category": "新彈",
+          "body": "官方宣佈補充包《ONE PIECE Heroines Edition vol.2【EB-05】》預計於2026年10月31日發售，單包售價為240日圓。"
         },
         {
-          "category": "新彈",
-          "body": "官方宣佈第18彈擴張包《神之支配》【OP-18】定於2026年11月21日發售，單包建議售價為¥240。"
+          "category": "高額",
+          "body": "截至2026年10月19日，據 Card Rush 統計，旗艦賽冠軍紀念品路飛 Leader 單卡買取價高達4,000,000日圓。"
+        },
+        {
+          "category": "買取",
+          "body": "截至2026年10月18日，Fullcomp 池袋店對《ST21》路飛 LP 版單卡開出20,000日圓買取價。"
         }
       ]
     },
@@ -39,16 +37,20 @@
       "game": "pokemon",
       "items": [
         {
-          "category": "買取",
-          "body": "截至2026年10月18日，Fullcomp渋谷東口店對《皮卡丘》(131/M-P) PROMO單卡買取價為¥22,000。"
+          "category": "新彈",
+          "body": "官方「30th CELEBRATION」御三家卡牌組合已於2026年10月16日發售，含稅售價為1,200日圓。"
         },
         {
-          "category": "新彈",
-          "body": "寶可夢官方「30th CELEBRATION」擴張包單包6枚裝售價為¥360，1BOX含20包售價為¥7,200。"
+          "category": "高額",
+          "body": "截至2026年10月19日，PRICE BASE 對《Mega Rayquaza ex》MUR 單卡開出50,000日圓高額買取價。"
+        },
+        {
+          "category": "買取",
+          "body": "截至2026年10月16日，Fullcomp 町田店對 PSA10 評級阿塞蘿拉 SR 單卡開出1,300,000日圓買取價。"
         }
       ]
     }
   ],
-  "market_note": "截至2026年10月19日，日版TCG市場由航海王高額單卡與寶可夢30週年熱潮帶動，熱門單卡買取價介於¥22,000至¥900,000之間。",
+  "market_note": "2026年10月20日適逢寶可夢卡牌30週年紀念，日本國內二手市場在高額單卡與新彈熱情帶動下整體買氣高漲。",
   "disclaimer": "資訊僅供參考，並非投資建議。"
 }
